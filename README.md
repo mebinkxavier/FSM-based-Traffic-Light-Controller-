@@ -1,2 +1,5 @@
 # FSM-based-Traffic-Light-Controller-
-A traffic light controller designed using FSM in Verilog. It controls Red, Yellow and Green signals based on timed state transitions. The system models real-world traffic flow and demonstrates sequential logic design using HDL for safe and efficient signal switching.
+Project Description:
+This project implements a traffic light controller using a Finite State Machine (FSM) in Verilog HDL. The system controls traffic signals (Red, Yellow, Green) based on timed state transitions, simulating real-world traffic behavior at an intersection. The FSM ensures orderly signal switching and can be extended for pedestrian inputs or multiple lanes. This project demonstrates sequential logic design, state transition modeling, and real-time signal control using HDL.
+
+
